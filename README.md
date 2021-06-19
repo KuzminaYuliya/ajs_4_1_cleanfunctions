@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u9e7ydg5p8i007tp?svg=true)](https://ci.appveyor.com/project/KuzminaYuliya/ajs-4-1-cleanfunctions)
